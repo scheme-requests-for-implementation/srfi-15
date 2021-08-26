@@ -6,6 +6,8 @@
 
 keywords: [[https://srfi.schemers.org/?keywords=binding][Binding]]
 
+library-name: fluid-let
+
 This repository hosts [[https://srfi.schemers.org/srfi-15/][SRFI 15]]: Syntax for dynamic scoping, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /withdrawn/ status.
